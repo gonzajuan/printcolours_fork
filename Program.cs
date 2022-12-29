@@ -13,6 +13,8 @@ Console.ResetColor();
 Console.ForegroundColor = ConsoleColor.Yellow;
 Console.WriteLine(">>> I'm printing in Yellow <<<");
 Console.ResetColor();
+Console.ForegroundColor = ConsoleColor.DarkRed;
+Console.WriteLine(">>> I'm printing in Dark Red <<<");
 Console.ForegroundColor = ConsoleColor.Magenta;
 Console.WriteLine(">>> I'm printing in Magenta <<<");
 Console.ResetColor();
